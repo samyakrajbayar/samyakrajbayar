@@ -1,4 +1,4 @@
-#  About Me:
+# 💫 About Me:
 Hey! I’m Samyak, a curious learner who loves coding, trying new projects, and exploring different areas in tech. I enjoy taking on challenges, working with teams, and creating things that make a real difference.
  
 
