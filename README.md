@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I’m Samyak, a curious learner who loves coding, trying new projects, and exploring different areas in tech. I enjoy taking on challenges, working with teams, and creating things that make a real difference. I am the founder of a Non-Profit Called "Edudev Commons".
+Hey! I’m Samyak, a curious learner who loves coding, trying new projects, and exploring different areas in tech. I enjoy taking on challenges, working with teams, and creating things that make a real difference. I am the founder of "Edudev Commons".
  
 
 # 💻 Tech Stack:
